@@ -8,7 +8,7 @@ antd import plugin for snowpack
 ## transform
 
 ```javascript
-import { Button, DatePicker } from 'lodash';
+import { Button, DatePicker } from 'antd';
 
       ↓ ↓ ↓ ↓ ↓ ↓
 
